@@ -4,7 +4,7 @@
 
 This project demonstrates essential **data cleaning techniques** using **Python** and **Pandas**. The goal is to transform a raw, inconsistent customer call list into a clean, standardized dataset ready for data analysis and outreach.
 
-## 🛠️ Data Cleaning Steps
+##  Data Cleaning Steps
 
 -  **Data Import:** Loading Excel datasets into a Pandas DataFrame.
 -  **Duplicate Removal:** Identifying and removing duplicate rows.
